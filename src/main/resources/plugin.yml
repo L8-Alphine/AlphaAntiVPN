@@ -1,5 +1,5 @@
 name: AlphaAntiVPN
-version: '1.0.1-alpha.22'
+version: '1.0.1-alpha.23'
 main: org.alphine.alphaAntiVPN.AlphaAntiVPN
 author: Alphine
 api-version: '1.21'

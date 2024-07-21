@@ -14,7 +14,7 @@ AlphaAntiVPN is a Minecraft plugin designed to detect and block VPN and proxy co
 
 1. **Download the Plugin**
 
-   You can download the latest version of AlphaAntiVPN from the [Releases](https://github.com/yourusername/AlphaAntiVPN/releases) page.
+   You can download the latest version of AlphaAntiVPN from the [Releases](https://github.com/L8-Alphine/AlphaAntiVPN/releases) page.
 
 2. **Install the Plugin**
 

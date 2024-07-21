@@ -1,0 +1,11 @@
+name: AlphaAntiVPN
+version: '1.0.1-alpha.22'
+main: org.alphine.alphaAntiVPN.AlphaAntiVPN
+author: Alphine
+api-version: '1.21'
+commands:
+  antivpn:
+    description: Controls the AntiVPN features.
+    usage: /antivpn <enable|disable|status|whitelist|blacklist|check>
+    permission: alphaAntiVPN.admin
+    permission-message: You do not have permission to use this command.

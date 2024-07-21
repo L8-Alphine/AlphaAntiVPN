@@ -35,7 +35,10 @@ Here is a sample configuration file:
 ```yaml
 anti-vpn:
   enabled: true
+  kick-message: "VPNs and proxies are not allowed."
+  bypass-permission: "alphaAntiVPN.bypass"
+  notify-actionbar: true
+  notify-permission: "alphaAntiVPN.notify"
   whitelisted-ips:
     - "127.0.0.1"
-  blacklisted-ips:
-    - "192.168.0.1"
+  blacklisted-ips: []
